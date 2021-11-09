@@ -12,7 +12,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>title</title>
+	<title>gList.jsp(방명록리스트_수정함)</title>
 	<%@ include file="../include/bs4.jsp" %>
 </head>
 <body>
